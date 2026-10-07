@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kudastech.github.io/reposcout-site/sitemap.xml
